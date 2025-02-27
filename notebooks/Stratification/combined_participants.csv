@@ -1,0 +1,21 @@
+Age,experience_with_videogames,gender,What is the highest degree or level of education you have completed or are currently pursuing?,handedness,eyesight_conditions,What is your field of study/work?,"Do you have any physical disabilities? If yes, which?",virtual_reality_experience,experience_with_teleoperation,driver_license,Controller
+30,Yes,Male,Master's Degree,Right-handed,No,Information Systems,No,More than 3 times,Never,Yes,SBC
+22,No,Male,Master's Degree,Right-handed,Yes,Automation and Control Engineering,!9,Never,Never,Yes,SBC
+27,Yes,Male,Ph.d or higher,Right-handed,No,Robotic Task Planning ,No,1 or 2 times,More than 3 times,Yes,SBC
+25,Yes,Female,Master's Degree,Right-handed,Yes,Autonomous Systems,No ,1 or 2 times,Never,Yes,SBC
+28,Yes,Male,Ph.d or higher,Right-handed,No,Computer Science,No,Never,Never,Yes,SBC
+28,No,Female,Master's Degree,Right-handed,Yes,Robotic,no,More than 3 times,1 or 2 times,Yes,SBC
+21,Yes,Male,Master's Degree,Right-handed,Yes,Automatisierungstechnik,No,Never,Never,Yes,SBC
+29,No,Male,Master's Degree,Right-handed,No,Computational Engineering,No,Never,Never,Yes,SBC
+18,Yes,Female,High School,Right-handed,No,A levels with Art and Mathematics,,More than 3 times,Never,Yes,SBC
+26,No,Female,Master's Degree,Left-handed,Yes,Biomedical Engineering,No,1 or 2 times,1 or 2 times,Yes,SBC
+22,Yes,Male,Master's Degree,Left-handed,No,Machine Learning,No,1 or 2 times,Never,Yes,WBC
+26,No,Male,Ph.d or higher,Right-handed,No,"Control Engineering, Machine Learning",no,Never,Never,Yes,WBC
+31,No,Female,Master's Degree,Right-handed,No,Communications Manager @hessian.AI,no,Never,Never,Yes,WBC
+29,Yes,Male,Master's Degree,Right-handed,No,Eléctricas engineering ,No,Never,Never,No,WBC
+21,Yes,Male,High School,Right-handed,Yes,mechanical engineering ,no,Never,Never,Yes,WBC
+23,Yes,Male,Master's Degree,Right-handed,Yes,Industrial Engineering,No,1 or 2 times,Never,Yes,WBC
+26,Yes,Female,Ph.d or higher,Right-handed,No,Robotics,No,Never,Never,Yes,WBC
+22,No,Female,Bachelor's Degree,Right-handed,No,Computer Science,No,Never,Never,Yes,WBC
+25,No,Male,Master's Degree,Right-handed,Yes,Computer Science,"Left shoulder injuried, no full range of motion as of now (might be normal at the time of conducting the study); right arm is ok",1 or 2 times,Never,Yes,WBC
+27,No,Male,Master's Degree,Right-handed,Yes,AI &ML,No,1 or 2 times,1 or 2 times,No,WBC

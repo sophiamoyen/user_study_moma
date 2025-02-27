@@ -1,0 +1,21 @@
+Controller,PERSONAL_participant_code,Start_Modality,"SIM-WITH-VR_(SEQ) Overall, how easy or difficult did you find to perform this task?","SIM-NO-VR_(SEQ) Overall, how easy or difficult did you find to perform this task?.1","RW-WITH-VR_(TASK 1) (SEQ) Overall, how easy or difficult did you find to perform this task?","RW-WITH-VR_(TASK 2) (SEQ) Overall, how easy or difficult did you find to perform this task?","RW-WITH-VR_(TASK 3) (SEQ) Overall, how easy or difficult did you find to perform this task?","RW-NO-VR_(TASK 1) (SEQ) Overall, how easy or difficult did you find to perform this task?.1","RW-NO-VR_(TASK 2) (SEQ) Overall, how easy or difficult did you find to perform this task?.1","RW-NO-VR_(TASK 3) (SEQ) Overall, how easy or difficult did you find to perform this task?.1"
+Chiron,HASJ22,Screen first,4,5,6,5.0,4.0,4,3,3.0
+Chiron,AAHF21,VR first,7,5,6,5.0,4.0,2,3,3.0
+Chiron,DOCS21,Screen first,3,5,5,4.0,3.0,2,2,2.0
+Chiron,ATSF08,VR first,6,4,3,2.0,4.0,4,3,3.0
+Chiron,CEEJ05,Screen first,5,6,6,5.0,4.0,3,3,2.0
+Chiron,NULS22,Screen first,5,2,6,4.0,3.0,6,2,3.0
+Chiron,DAMA12,VR first,6,5,3,3.0,3.0,3,3,2.0
+Chiron,XHKB15,Screen first,5,4,4,4.0,3.0,2,2,2.0
+Chiron,RENL05,VR first,5,3,6,5.0,3.0,3,2,2.0
+WBC,ARAH22,Screen first,3,6,4,3.0,2.0,4,2,2.0
+WBC,BTHH23,Screen first,3,5,6,6.0,3.0,2,2,1.0
+WBC,ELBH19,Screen first,5,6,7,7.0,6.0,3,2,2.0
+WBC,LEMT02,VR first,5,4,3,3.0,2.0,2,2,1.0
+WBC,MGNH15,VR first,4,1,2,1.0,2.0,3,1,1.0
+WBC,DOFS27,VR first,6,4,3,3.0,3.0,2,2,3.0
+WBC,IICM04,VR first,4,3,7,7.0,6.0,2,1,2.0
+WBC,REKD03,Screen first,7,6,5,4.0,3.0,2,2,2.0
+WBC,NRKH02,VR first,5,3,4,4.0,3.0,3,2,2.0
+WBC,SASD12,Screen first,6,5,6,3.0,5.0,3,2,3.0
+Chiron,EECW29,VR first,4,2,3,2.0,3.0,2,2,1.0

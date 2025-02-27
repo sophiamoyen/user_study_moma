@@ -1,0 +1,21 @@
+PERSONAL_Controller being tested?,PERSONAL_participant_code,RW-WITH-VR_(TASK 1) Subtasks success [Open drawer],RW-WITH-VR_(TASK 1) Subtasks success [Move to & pick up bottle],RW-WITH-VR_(TASK 1) Subtasks success [Put bottle inside drawer],RW-WITH-VR_(TASK 1) Subtasks success [Close drawer],RW-WITH-VR_(TASK 1) Subtasks success [Return to base],RW-WITH-VR_(TASK 2) Subtasks success [Open drawer],RW-WITH-VR_(TASK 2) Subtasks success [Move to & pick up bottle],RW-WITH-VR_(TASK 2) Subtasks success [Put bottle inside drawer],RW-WITH-VR_(TASK 2) Subtasks success [Close drawer],RW-WITH-VR_(TASK 2) Subtasks success [Return to base],RW-WITH-VR_(TASK 3) Subtasks success [Open drawer],RW-WITH-VR_(TASK 3) Subtasks success [Move to & pick up bottle],RW-WITH-VR_(TASK 3) Subtasks success [Put bottle inside drawer],RW-WITH-VR_(TASK 3) Subtasks success [Close drawer],RW-WITH-VR_(TASK 3) Subtasks success [Return to base],RW-NO-VR_(TASK 1) Subtasks success [Open drawer].1,RW-NO-VR_(TASK 1) Subtasks success [Move to & pick up bottle].1,RW-NO-VR_(TASK 1) Subtasks success [Put bottle inside drawer].1,RW-NO-VR_(TASK 1) Subtasks success [Close drawer].1,RW-NO-VR_(TASK 1) Subtasks success [Return to base].1,RW-NO-VR_(TASK 2) Subtasks success [Open drawer].1,RW-NO-VR_(TASK 2) Subtasks success [Move to & pick up bottle].1,RW-NO-VR_(TASK 2) Subtasks success [Put bottle inside drawer].1,RW-NO-VR_(TASK 2) Subtasks success [Close drawer].1,RW-NO-VR_(TASK 2) Subtasks success [Return to base].1,RW-NO-VR_(TASK 3) Subtasks success [Open drawer].1,RW-NO-VR_(TASK 3) Subtasks success [Move to & pick up bottle].1,RW-NO-VR_(TASK 3) Subtasks success [Put bottle inside drawer].1,RW-NO-VR_(TASK 3) Subtasks success [Close drawer].1,RW-NO-VR_(TASK 3) Subtasks success [Return to base].1
+Chiron,HASJ22,10,10,10,10,10,10,4,10,10,10,10,4,10,10,10,10,4,10,10,10,7,10,10,10,10,10,10,4,10,10
+Chiron,AAHF21,7,4,10,10,10,10,10,10,10,7,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10
+Chiron,DOCS21,10,7,10,10,10,10,10,10,10,4,10,10,10,10,10,10,10,10,10,10,10,7,10,10,10,10,7,10,10,10
+Chiron,ATSF08,10,10,10,10,10,10,10,10,10,10,10,10,10,7,10,10,10,10,10,10,10,10,7,10,10,7,10,10,7,10
+Chiron,CEEJ05,7,7,10,7,10,7,10,10,10,10,10,10,10,10,10,7,10,10,10,10,10,7,10,7,10,7,10,10,10,10
+Chiron,NULS22,10,4,10,7,10,10,7,10,10,10,10,10,10,10,10,7,7,10,7,10,10,10,10,10,10,7,7,10,10,10
+Chiron,DAMA12,10,7,10,7,7,10,10,10,4,10,10,4,0,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10,10
+Chiron,XHKB15,10,7,10,10,10,10,4,10,10,7,10,10,10,7,10,10,10,10,7,10,10,10,10,10,10,10,4,10,10,7
+Chiron,RENL05,4,7,10,7,10,10,7,10,10,10,10,10,4,10,10,10,10,10,10,10,10,7,10,7,10,10,4,10,7,10
+WBC,ARAH22,10,10,10,10,7,7,0,10,10,10,10,10,0,7,10,7,4,0,7,10,10,10,10,7,10,10,7,10,10,10
+WBC,BTHH23,7,10,10,7,10,7,10,10,7,10,10,7,10,7,7,7,10,10,7,10,10,10,10,7,10,7,10,10,7,10
+WBC,ELBH19,10,7,10,4,7,0,0,7,4,7,7,10,10,7,10,7,0,10,7,7,10,10,10,10,10,10,10,10,10,10
+WBC,LEMT02,7,7,10,4,10,10,7,7,7,10,10,10,10,7,10,10,7,10,10,10,7,10,7,10,10,10,10,10,7,10
+WBC,MGNH15,10,10,10,7,10,10,10,10,10,10,10,10,10,10,10,10,10,4,10,10,10,10,4,7,10,10,7,10,10,10
+WBC,DOFS27,10,7,10,7,10,10,7,10,10,10,7,10,10,7,10,7,10,10,10,10,10,10,10,10,10,7,10,10,10,10
+WBC,IICM04,10,0,4,7,7,7,10,4,4,10,0,7,10,0,7,7,7,10,7,10,7,10,10,7,10,7,4,10,7,10
+WBC,REKD03,7,4,10,7,7,10,10,10,7,7,10,10,10,10,7,7,7,10,7,10,7,10,10,10,10,10,10,10,10,10
+WBC,NRKH02,7,10,10,0,10,10,10,0,7,7,10,4,10,7,10,7,10,10,10,10,7,10,10,7,10,7,10,10,10,10
+WBC,SASD12,10,7,10,7,4,10,10,10,10,10,10,4,10,10,10,10,4,10,7,10,10,10,10,10,10,10,10,4,7,10
+Chiron,EECW29,10,7,10,7,10,10,7,10,10,10,7,7,10,10,10,10,10,10,10,10,10,10,4,10,10,7,10,10,10,10

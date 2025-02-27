@@ -1,0 +1,45 @@
+PERSONAL_Controller being tested?,PERSONAL_Is the person testing first the VR or the screen?,PERSONAL_participant_code,PERSONAL_Age,PERSONAL_Height,PERSONAL_What gender do you identify as?,PERSONAL_What is the highest degree or level of education you have completed or are currently pursuing?,PERSONAL_Are you left- or right-handed?,"PERSONAL_Do you have any eyesight conditions (myopia, hyperopia, ...) ?",PERSONAL_What is the eyesight issue if there is one,PERSONAL_Are you wearing glasses or lenses or nothing today?,PERSONAL_What is your field of study/work?,"PERSONAL_Do you have any physical disabilities? If yes, which?",PERSONAL_How experient do you consider your self in videogames? (Consider how often you play/have played),PERSONAL_How often have you used used virtual reality gear?,PERSONAL_How often have you interacted with teleoperation setups until now?,PERSONAL_Do you have a driver's and/or pilot's license?,PERSONAL_What works best for you when learning something new?,"RW-WITH-VR_Mental Demand:  How much mental and perceptual activity was required (e.g. thinking, deciding, calculating, remembering, looking, searching, etc)? Was the task easy or demanding, simple or complex, exacting or forgiving? https://www.keithv.com/software/nasatlx/nasatlx.html
+
+(Scale 0-100)","RW-WITH-VR_Temporal Demand:  How much time pressure did you feel due to the rate of pace at which the tasks or task elements occurred? Was the pace slow and leisurely or rapid and frantic?
+
+(Scale 0-100)","RW-WITH-VR_Physical Demand:  How much physical activity was required (e.g. pushing, pulling, turning, controlling, activating, etc)? Was the task easy or demanding, slow or brisk, slack or strenuous, restful or laborious?
+
+(Scale 0-100)","RW-WITH-VR_Performance:  How successful do you think you were in accomplishing the goals of the task set by the experimenter (or yourself)? How satisfied were you with your performance in accomplishing these goals?
+
+(Scale 0-100)","RW-WITH-VR_Effort:  How hard did you have to work (mentally and physically) to accomplish your level of performance?
+
+(Scale 0-100)","RW-WITH-VR_Frustration:  How insecure, discouraged, irritated, stressed and annoyed versus secure, gratified, content, relaxed and complacent did you feel during the task?
+
+(Scale 0-100)","RW-NO-VR_Mental Demand:  How much mental and perceptual activity was required (e.g. thinking, deciding, calculating, remembering, looking, searching, etc)? Was the task easy or demanding, simple or complex, exacting or forgiving? https://www.keithv.com/software/nasatlx/nasatlx.html
+
+(Scale 0-100).1","RW-NO-VR_Temporal Demand:  How much time pressure did you feel due to the rate of pace at which the tasks or task elements occurred? Was the pace slow and leisurely or rapid and frantic?
+
+(Scale 0-100).1","RW-NO-VR_Physical Demand:  How much physical activity was required (e.g. pushing, pulling, turning, controlling, activating, etc)? Was the task easy or demanding, slow or brisk, slack or strenuous, restful or laborious?
+
+(Scale 0-100).1","RW-NO-VR_Performance:  How successful do you think you were in accomplishing the goals of the task set by the experimenter (or yourself)? How satisfied were you with your performance in accomplishing these goals?
+
+(Scale 0-100).1","RW-NO-VR_Effort:  How hard did you have to work (mentally and physically) to accomplish your level of performance?
+
+(Scale 0-100).1","RW-NO-VR_Frustration:  How insecure, discouraged, irritated, stressed and annoyed versus secure, gratified, content, relaxed and complacent did you feel during the task?
+
+(Scale 0-100).1"
+Chiron,Screen first,HASJ22,27,175,Male,Ph.d or higher,Right-handed,No,,Nothing,Robotics,No,"Moderate experience, played/play quite often","More than 2 times, but not often",1 or 2 times,Yes,4,90,15,70,25,90,65,75,5,60,20,40,10
+Chiron,VR first,AAHF21,30,180,Male,Ph.d or higher,Right-handed,No,,Nothing,Information Systems/ Social Sciences,,"Moderate experience, played/play quite often","More than 2 times, but not often",Never,Yes,2,75,65,40,75,85,25,60,30,30,15,60,20
+Chiron,Screen first,DOCS21,22,182,Male,Master's Degree,Right-handed,Yes,0.5 myopia both eyes,Nothing,Robotics,,"A little experience, played a few times",1 or 2 times,Never,Yes,4,25,25,10,15,25,10,15,5,10,15,10,5
+Chiron,VR first,ATSF08,25,160,Female,Master's Degree,Right-handed,Yes,Myopia (light),Glasses,Robotics,,"Moderate experience, played/play quite often",1 or 2 times,Never,Yes,2,70,35,65,30,70,15,60,30,70,25,75,40
+Chiron,Screen first,CEEJ05,28,182,Male,Ph.d or higher,Right-handed,No,,Nothing,Robotics,,"Advance experience, played/play very often",1 or 2 times,Never,Yes,4,50,65,70,30,75,15,25,60,45,10,60,10
+Chiron,Screen first,NULS22,28,166,Female,Master's Degree,Right-handed,Yes,mYOPIA 5.5 6,Glasses,Robotics,,"Moderate experience, played/play quite often","More than 2 times, but not often",1 or 2 times,Yes,3,55,25,55,10,60,15,70,65,50,20,40,40
+Chiron,VR first,DAMA12,21,187,Male,Master's Degree,Right-handed,Yes,Myopia 1.5 1.5,Glasses,Robotics,,"Advance experience, played/play very often",1 or 2 times,"More than 2 times, but not often",Yes,4,45,55,20,25,70,15,60,25,15,25,70,5
+Chiron,Screen first,XHKB15,29,193,Male,Master's Degree,Right-handed,Yes,Myopia 0.5 0.5,Nothing,Computational Engineering and AI/ML,,"Moderate experience, played/play quite often",Never,Never,Yes,4,75,70,60,35,70,60,40,30,50,30,50,15
+Chiron,VR first,RENL05,18,170,Female,High School,Right-handed,No,,Nothing,High School Student,,"Advance experience, played/play very often","More than 2 times, but not often",Never,Yes,3,65,70,45,60,60,35,30,40,25,60,35,45
+WBC,Screen first,ARAH22,22,194,Male,Master's Degree,Left-handed,No,,Nothing,Computer Science and AI/ML,,"Moderate experience, played/play quite often",1 or 2 times,Never,Yes,4,35,40,25,35,45,35,35,30,20,15,30,35
+WBC,Screen first,BTHH23,27,165,Male,Ph.d or higher,Right-handed,No,,Nothing,Control Engineering,,"A little experience, played a few times",Never,Never,Yes,4,75,25,35,35,75,40,30,40,15,15,25,10
+WBC,Screen first,ELBH19,31,168,Female,Master's Degree,Right-handed,No,,Nothing,AI and Communications,,"A little experience, played a few times",Never,Never,Yes,3,90,80,65,85,95,65,75,75,60,25,85,35
+WBC,VR first,LEMT02,29,183,Male,Master's Degree,Right-handed,No,,Nothing,Electrical Engineering,,"Advance experience, played/play very often",Never,Never,Yes,2,75,60,25,30,70,30,50,20,15,15,35,10
+WBC,VR first,MGNH15,21,190,Male,Bachelor's Degree,Right-handed,Yes,Myopia 1 1.25,Glasses,Mechanical Engineering,,"Advance experience, played/play very often",Never,Never,Yes,3,45,60,20,15,75,60,50,55,20,20,75,75
+WBC,VR first,DOFS27,23,172,Male,Master's Degree,Right-handed,Yes,Myopia 3.5 3.5 Astigmatism light,Lenses,Industrial Engineering,,"Advance experience, played/play very often",1 or 2 times,Never,Yes,4,40,25,30,20,65,35,35,10,30,10,60,15
+WBC,VR first,IICM04,26,163,Female,Ph.d or higher,Right-handed,No,,Nothing,Robotics,,"A little experience, played a few times",Never,1 or 2 times,Yes,3,85,15,15,90,85,95,30,20,20,20,30,25
+WBC,Screen first,REKD03,23,175,Female,Master's Degree,Right-handed,No,,Nothing,Computer Science,,"A little experience, played a few times",Never,Never,Yes,2,75,30,40,35,70,50,65,60,25,30,70,20
+WBC,VR first,NRKH02,25,174,Male,Master's Degree,Right-handed,Yes,Myopia 1 1,Lenses,Computer Science,"Had left shoulder injured, but recovered","A little experience, played a few times",1 or 2 times,Never,Yes,3,65,45,25,20,55,70,50,20,20,15,35,35
+WBC,Screen first,SASD12,27,170,Male,Master's Degree,Right-handed,Yes,Myopia 0.25 0.25,Nothing,AI/ML,,"A little experience, played a few times",1 or 2 times,"More than 2 times, but not often",No,4,65,65,45,55,60,60,35,40,35,35,50,35
+Chiron,VR first,EECW29,26,172,Female,Master's Degree,Left-handed,Yes,Myopia left eye 0.25 and hypermyopia right 0.75,Nothing,Biomedical Engineering,,"I have no experience, never played",1 or 2 times,1 or 2 times,Yes,2,65,15,40,30,50,10,40,25,45,20,30,10

@@ -1,0 +1,21 @@
+Controller being tested?,SIM-WITH-VR_How many times repositioning was needed?,SIM-NO-VR_How many times repositioning was needed?.1,RW-WITH-VR_(TASK 1) How many times repositioning was needed?,RW-WITH-VR_(TASK 2) How many times repositioning was needed?,RW-WITH-VR_(TASK 3) How many times repositioning was needed?,RW-NO-VR_(TASK 1) How many times repositioning was needed?.1,RW-NO-VR_(TASK 2) How many times repositioning was needed?.1,RW-NO-VR_(TASK 3) How many times repositioning was needed?.1
+SBC,0.0,1.0,0.0,,0,1.0,0.0,0
+SBC,1.0,1.0,0.0,0.0,0,0.0,0.0,0
+SBC,0.0,1.0,0.0,0.0,0,0.0,0.0,0
+SBC,0.0,,0.0,0.0,0,0.0,0.0,0
+SBC,2.0,1.0,0.0,0.0,0,0.0,0.0,0
+SBC,1.0,0.0,1.0,,0,0.0,0.0,0
+SBC,0.0,1.0,0.0,1.0,1,0.0,0.0,0
+SBC,,0.0,0.0,0.0,0,0.0,0.0,0
+SBC,0.0,,1.0,1.0,0,0.0,0.0,0
+WBC,0.0,0.0,0.0,0.0,1,0.0,0.0,0
+WBC,0.0,,0.0,0.0,0,0.0,0.0,0
+WBC,,0.0,1.0,0.0,0,0.0,0.0,0
+WBC,0.0,,1.0,,0,0.0,0.0,0
+WBC,0.0,0.0,0.0,0.0,0,0.0,0.0,0
+WBC,,0.0,0.0,0.0,0,0.0,0.0,0
+WBC,,0.0,0.0,0.0,0,0.0,0.0,0
+WBC,0.0,0.0,0.0,0.0,0,0.0,0.0,0
+WBC,,0.0,1.0,,0,,0.0,0
+WBC,0.0,,1.0,0.0,0,0.0,0.0,0
+SBC,,,0.0,0.0,0,0.0,0.0,0
