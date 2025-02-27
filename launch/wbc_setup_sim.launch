@@ -1,0 +1,9 @@
+<launch>
+  <node name="change_vr_view" pkg="data_collection" type="change_vr_headset_view.py" output="screen"></node>
+  <node name="head_tracker" pkg="data_collection" type="hmd_tracker_tiago_head.py" output="screen"></node>
+
+<!-- Commented out since I am already recording everything in Motive -->
+<!--  <include file="$(find natnet_bridge)/launch/natnet_bridge.launch" /> -->
+<!-- Launch rivz display -->
+ <node name="rviz" pkg="rviz" type="rviz" args="-d $(find data_collection)/rviz/user_study_sim.rviz" output="screen" />
+</launch>

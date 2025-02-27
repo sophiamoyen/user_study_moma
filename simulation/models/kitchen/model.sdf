@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<sdf version="1.7">
+    <model name="cabinet_with_drawer">
+    <pose>0 0 0 0 0 0</pose>
+
+
+        <link name="kitchen">
+            <pose>0 0 0 0 0 0</pose>
+            <inertial>
+              <inertia>
+                <ixx>2.501</ixx>
+                <ixy>0</ixy>
+                <ixz>0</ixz>
+                <iyy>2.501</iyy>
+                <iyz>0</iyz>
+                <izz>5</izz>
+              </inertia>
+              <mass>120.0</mass>
+          </inertial>
+            <visual name="kitchen_visual">
+                <geometry>
+                    <mesh>
+                     <uri>model://kitchen/meshes/kitchen.dae</uri>
+                     <scale>1 1 1</scale>
+                    </mesh>
+                </geometry>
+            </visual>
+            <collision name="cabinet_collision">
+                <geometry>
+                    <mesh>
+                     <uri>model://kitchen/meshes/kitchen.dae</uri>
+                     <scale>1 1 1</scale>
+                    </mesh>
+                </geometry>
+            </collision>
+        </link>
+
+        <joint name="world_fixed" type="fixed">
+        <parent>world</parent>
+        <child>kitchen</child>
+        </joint>
+
+        <link name="drawer">
+            <pose>0.013 -0.23 0.9 0 0 0</pose>
+            <inertial>
+              <inertia>
+                <ixx>0.201</ixx>
+                <ixy>0</ixy>
+                <ixz>0</ixz>
+                <iyy>0.201</iyy>
+                <iyz>0</iyz>
+                <izz>0.5</izz>
+              </inertia>
+              <mass>2.0</mass>
+          </inertial>
+            <visual name="drawer_visual">
+                <geometry>
+                    <mesh>
+                     <uri>model://kitchen/meshes/drawer.dae</uri>
+                     <scale>1 1 1</scale>
+                    </mesh>
+                </geometry>
+            </visual>
+            <collision name="drawer_collision">
+                <geometry>
+                    <mesh>
+                     <uri>model://kitchen/meshes/drawer.dae</uri>
+                     <scale>1 1 1</scale>
+                    </mesh>
+                </geometry>
+            </collision>
+        </link>
+
+
+
+        <joint name="drawer_joint" type="prismatic">
+        <child>drawer</child>
+        <parent>kitchen</parent>
+        <axis>
+          <limit>
+            <lower>-0.6</lower>
+            <upper>0</upper>
+          </limit>
+          <xyz>0 1 0</xyz>
+        </axis>
+       </joint>
+
+
+    </model>
+</sdf>

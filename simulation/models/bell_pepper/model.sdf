@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<sdf version="1.7">
+    <model name="bell_pepper">
+    <pose>0 0 0 0 0 0</pose>
+
+
+        <link name="bell_pepper">
+            <pose>0 0 0 0 0 0</pose>
+            <inertial>
+              <inertia>
+                <ixx>0.005</ixx>
+                <ixy>0</ixy>
+                <ixz>0</ixz>
+                <iyy>0.005</iyy>
+                <iyz>0</iyz>
+                <izz>0.005</izz>
+              </inertia>
+              <mass>0.1</mass>
+          </inertial>
+            <visual name="bell_pepper_visual">
+                <geometry>
+                    <mesh>
+                     <uri>model://bell_pepper/meshes/bell_pepper.dae</uri>
+                     <scale>1 1 1</scale>
+                    </mesh>
+                </geometry>
+                <material>
+                  <diffuse>50 131 37</diffuse>
+                </material>
+            </visual>
+            <collision name="cabinet_collision">
+                <geometry>
+                    <mesh>
+                     <uri>model://bell_pepper/meshes/bell_pepper.dae</uri>
+                     <scale>1 1 1</scale>
+                    </mesh>
+                </geometry>
+            </collision>
+            <physics>
+              <ode>
+                <friction>
+                  <mu>0.8</mu>
+                  <mu2>0.5</mu2>
+                </friction>
+              </ode>
+            </physics>
+        </link>
+
+    </model>
+</sdf>

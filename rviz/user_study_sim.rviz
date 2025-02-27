@@ -1,0 +1,418 @@
+Panels:
+  - Class: rviz/Displays
+    Help Height: 78
+    Name: Displays
+    Property Tree Widget:
+      Expanded:
+        - /Global Options1
+        - /Status1
+      Splitter Ratio: 0.5
+    Tree Height: 465
+  - Class: rviz/Selection
+    Name: Selection
+  - Class: rviz/Tool Properties
+    Expanded:
+      - /2D Pose Estimate1
+      - /2D Nav Goal1
+      - /Publish Point1
+    Name: Tool Properties
+    Splitter Ratio: 0.5886790156364441
+  - Class: rviz/Views
+    Expanded:
+      - /Current View1
+    Name: Views
+    Splitter Ratio: 0.5
+  - Class: rviz/Time
+    Name: Time
+    SyncMode: 0
+    SyncSource: Image
+Preferences:
+  PromptSaveOnExit: true
+Toolbars:
+  toolButtonStyle: 2
+Visualization Manager:
+  Class: ""
+  Displays:
+    - Alpha: 0.5
+      Cell Size: 1
+      Class: rviz/Grid
+      Color: 160; 160; 164
+      Enabled: true
+      Line Style:
+        Line Width: 0.029999999329447746
+        Value: Lines
+      Name: Grid
+      Normal Cell Count: 0
+      Offset:
+        X: 0
+        Y: 0
+        Z: 0
+      Plane: XY
+      Plane Cell Count: 10
+      Reference Frame: <Fixed Frame>
+      Value: true
+    - Class: rviz/TF
+      Enabled: true
+      Filter (blacklist): ""
+      Filter (whitelist): ""
+      Frame Timeout: 15
+      Frames:
+        All Enabled: true
+        arm_left_1_link:
+          Value: true
+        arm_left_2_link:
+          Value: true
+        arm_left_3_link:
+          Value: true
+        arm_left_4_link:
+          Value: true
+        arm_left_5_link:
+          Value: true
+        arm_left_6_link:
+          Value: true
+        arm_left_7_link:
+          Value: true
+        arm_left_tool_link:
+          Value: true
+        arm_right_1_link:
+          Value: true
+        arm_right_2_link:
+          Value: true
+        arm_right_3_link:
+          Value: true
+        arm_right_4_link:
+          Value: true
+        arm_right_5_link:
+          Value: true
+        arm_right_6_link:
+          Value: true
+        arm_right_7_link:
+          Value: true
+        arm_right_tool_link:
+          Value: true
+        base_antenna_left_link:
+          Value: true
+        base_antenna_right_link:
+          Value: true
+        base_dock_link:
+          Value: true
+        base_footprint:
+          Value: true
+        base_front_laser_link:
+          Value: true
+        base_imu_link:
+          Value: true
+        base_link:
+          Value: true
+        base_rear_laser_link:
+          Value: true
+        camera_link:
+          Value: true
+        gripper_left_base_link:
+          Value: true
+        gripper_left_grasping_frame:
+          Value: true
+        gripper_left_grasping_frame_Y:
+          Value: true
+        gripper_left_grasping_frame_Z:
+          Value: true
+        gripper_left_left_finger_link:
+          Value: true
+        gripper_left_link:
+          Value: true
+        gripper_left_right_finger_link:
+          Value: true
+        gripper_left_tool_link:
+          Value: true
+        gripper_right_base_link:
+          Value: true
+        gripper_right_grasping_frame:
+          Value: true
+        gripper_right_grasping_frame_Y:
+          Value: true
+        gripper_right_grasping_frame_Z:
+          Value: true
+        gripper_right_left_finger_link:
+          Value: true
+        gripper_right_link:
+          Value: true
+        gripper_right_right_finger_link:
+          Value: true
+        gripper_right_tool_link:
+          Value: true
+        head_1_link:
+          Value: true
+        head_2_link:
+          Value: true
+        odom:
+          Value: true
+        rgbd_laser_link:
+          Value: true
+        suspension_front_left_link:
+          Value: true
+        suspension_front_right_link:
+          Value: true
+        suspension_rear_left_link:
+          Value: true
+        suspension_rear_right_link:
+          Value: true
+        torso_fixed_column_link:
+          Value: true
+        torso_fixed_link:
+          Value: true
+        torso_lift_link:
+          Value: true
+        virtual_base_laser_link:
+          Value: true
+        wheel_front_left_link:
+          Value: true
+        wheel_front_right_link:
+          Value: true
+        wheel_rear_left_link:
+          Value: true
+        wheel_rear_right_link:
+          Value: true
+        wrist_left_ft_link:
+          Value: true
+        wrist_left_ft_tool_link:
+          Value: true
+        wrist_right_ft_link:
+          Value: true
+        wrist_right_ft_tool_link:
+          Value: true
+        xtion_depth_frame:
+          Value: true
+        xtion_depth_optical_frame:
+          Value: true
+        xtion_link:
+          Value: true
+        xtion_optical_frame:
+          Value: true
+        xtion_orbbec_aux_joint_frame:
+          Value: true
+        xtion_rgb_frame:
+          Value: true
+        xtion_rgb_optical_frame:
+          Value: true
+      Marker Alpha: 1
+      Marker Scale: 1
+      Name: TF
+      Show Arrows: true
+      Show Axes: true
+      Show Names: true
+      Tree:
+        odom:
+          base_footprint:
+            base_link:
+              base_antenna_left_link:
+                {}
+              base_antenna_right_link:
+                {}
+              base_dock_link:
+                {}
+              base_front_laser_link:
+                {}
+              base_imu_link:
+                {}
+              base_rear_laser_link:
+                {}
+              suspension_front_left_link:
+                wheel_front_left_link:
+                  {}
+              suspension_front_right_link:
+                wheel_front_right_link:
+                  {}
+              suspension_rear_left_link:
+                wheel_rear_left_link:
+                  {}
+              suspension_rear_right_link:
+                wheel_rear_right_link:
+                  {}
+              torso_fixed_column_link:
+                {}
+              torso_fixed_link:
+                torso_lift_link:
+                  arm_left_1_link:
+                    arm_left_2_link:
+                      arm_left_3_link:
+                        arm_left_4_link:
+                          arm_left_5_link:
+                            arm_left_6_link:
+                              arm_left_7_link:
+                                arm_left_tool_link:
+                                  wrist_left_ft_link:
+                                    wrist_left_ft_tool_link:
+                                      gripper_left_link:
+                                        gripper_left_base_link:
+                                          gripper_left_grasping_frame:
+                                            {}
+                                          gripper_left_grasping_frame_Y:
+                                            {}
+                                          gripper_left_grasping_frame_Z:
+                                            {}
+                                        gripper_left_left_finger_link:
+                                          {}
+                                        gripper_left_right_finger_link:
+                                          {}
+                                      gripper_left_tool_link:
+                                        {}
+                  arm_right_1_link:
+                    arm_right_2_link:
+                      arm_right_3_link:
+                        arm_right_4_link:
+                          arm_right_5_link:
+                            arm_right_6_link:
+                              arm_right_7_link:
+                                arm_right_tool_link:
+                                  wrist_right_ft_link:
+                                    wrist_right_ft_tool_link:
+                                      gripper_right_link:
+                                        gripper_right_base_link:
+                                          gripper_right_grasping_frame:
+                                            {}
+                                          gripper_right_grasping_frame_Y:
+                                            {}
+                                          gripper_right_grasping_frame_Z:
+                                            {}
+                                        gripper_right_left_finger_link:
+                                          {}
+                                        gripper_right_right_finger_link:
+                                          {}
+                                      gripper_right_tool_link:
+                                        {}
+                  head_1_link:
+                    head_2_link:
+                      camera_link:
+                        {}
+                      xtion_link:
+                        xtion_optical_frame:
+                          {}
+                        xtion_orbbec_aux_joint_frame:
+                          xtion_rgb_frame:
+                            xtion_depth_frame:
+                              xtion_depth_optical_frame:
+                                {}
+                            xtion_rgb_optical_frame:
+                              {}
+              virtual_base_laser_link:
+                {}
+            rgbd_laser_link:
+              {}
+      Update Interval: 0
+      Value: true
+    - Class: rviz/Image
+      Enabled: true
+      Image Topic: /zedA/zed_node_A/left/image_rect_color
+      Max Value: 1
+      Median window: 5
+      Min Value: 0
+      Name: Image
+      Normalize Range: true
+      Queue Size: 2
+      Transport Hint: raw
+      Unreliable: false
+      Value: true
+    - Class: rviz/Image
+      Enabled: true
+      Image Topic: /zedB/zed_node_B/left/image_rect_color
+      Max Value: 1
+      Median window: 5
+      Min Value: 0
+      Name: Image
+      Normalize Range: true
+      Queue Size: 2
+      Transport Hint: raw
+      Unreliable: false
+      Value: true
+    - Class: rviz/Image
+      Enabled: true
+      Image Topic: /zedC/zed_node_C/left/image_rect_color
+      Max Value: 1
+      Median window: 5
+      Min Value: 0
+      Name: Image
+      Normalize Range: true
+      Queue Size: 2
+      Transport Hint: raw
+      Unreliable: false
+      Value: true
+    - Class: rviz/Image
+      Enabled: true
+      Image Topic: /zedD/zed_node_D/left/image_rect_color
+      Max Value: 1
+      Median window: 5
+      Min Value: 0
+      Name: Image
+      Normalize Range: true
+      Queue Size: 2
+      Transport Hint: raw
+      Unreliable: false
+      Value: true
+  Enabled: true
+  Global Options:
+    Background Color: 48; 48; 48
+    Default Light: true
+    Fixed Frame: world
+    Frame Rate: 30
+  Name: root
+  Tools:
+    - Class: rviz/Interact
+      Hide Inactive Objects: true
+    - Class: rviz/MoveCamera
+    - Class: rviz/Select
+    - Class: rviz/FocusCamera
+    - Class: rviz/Measure
+    - Class: rviz/SetInitialPose
+      Theta std deviation: 0.2617993950843811
+      Topic: /initialpose
+      X std deviation: 0.5
+      Y std deviation: 0.5
+    - Class: rviz/SetGoal
+      Topic: /move_base_simple/goal
+    - Class: rviz/PublishPoint
+      Single click: true
+      Topic: /clicked_point
+  Value: true
+  Views:
+    Current:
+      Class: rviz/Orbit
+      Distance: 15.735193252563477
+      Enable Stereo Rendering:
+        Stereo Eye Separation: 0.05999999865889549
+        Stereo Focal Distance: 1
+        Swap Stereo Eyes: false
+        Value: false
+      Field of View: 0.7853981852531433
+      Focal Point:
+        X: 0
+        Y: 0
+        Z: 0
+      Focal Shape Fixed Size: true
+      Focal Shape Size: 0.05000000074505806
+      Invert Z Axis: false
+      Name: Current View
+      Near Clip Distance: 0.009999999776482582
+      Pitch: 0.23039816319942474
+      Target Frame: <Fixed Frame>
+      Yaw: 0.8053979873657227
+    Saved: ~
+Window Geometry:
+  Displays:
+    collapsed: false
+  Height: 1016
+  Hide Left Dock: false
+  Hide Right Dock: false
+  Image:
+    collapsed: false
+  QMainWindow State: 000000ff00000000fd0000000400000000000003a6000003c9fc0200000009fb0000001200530065006c0065006300740069006f006e00000001e10000009b0000005c00fffffffb0000001e0054006f006f006c002000500072006f007000650072007400690065007302000001ed000001df00000185000000a3fb000000120056006900650077007300200054006f006f02000001df000002110000018500000122fb000000200054006f006f006c002000500072006f0070006500720074006900650073003203000002880000011d000002210000017afc00000014000001c60000001600fffffffa000000000100000002fb0000000a0049006d0061006700650100000000ffffffff0000007200fffffffb000000100044006900730070006c0061007900730000000000000001560000015600fffffffb0000002000730065006c0065006300740069006f006e00200062007500660066006500720200000138000000aa0000023a00000294fb00000014005700690064006500530074006500720065006f02000000e6000000d2000003ee0000030bfb0000000c004b0069006e0065006300740200000186000001060000030c00000261fb0000000a0049006d00610067006501000001e0000001fd0000001600ffffff0000000100000376000003c9fc0200000004fb0000001e0054006f006f006c002000500072006f00700065007200740069006500730100000041000000780000000000000000fc00000014000001bd0000001600fffffffa000000000100000002fb0000000a0049006d0061006700650100000000ffffffff0000007200fffffffb0000000a0056006900650077007300000006390000010f0000010000fffffffb0000000a0049006d00610067006501000001d7000002060000001600fffffffb0000001200530065006c0065006300740069006f006e010000025a000000b200000000000000000000000200000490000000a9fc0100000001fb0000000a00560069006500770073030000004e00000080000002e10000019700000003000007480000003efc0100000002fb0000000800540069006d00650000000000000007480000030700fffffffb0000000800540069006d0065010000000000000450000000000000000000000020000003c900000004000000040000000800000008fc0000000100000002000000010000000a0054006f006f006c00730000000000ffffffff0000000000000000
+  Selection:
+    collapsed: false
+  Time:
+    collapsed: false
+  Tool Properties:
+    collapsed: false
+  Views:
+    collapsed: false
+  Width: 1864
+  X: 56
+  Y: 27
